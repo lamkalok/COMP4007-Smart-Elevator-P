@@ -1,12 +1,16 @@
-181202-23:54:52 [INFO] -- 
-181202-23:54:52 [INFO] -- 
-181202-23:54:52 [INFO] -- ============================================================
-181202-23:54:52 [INFO] -- ElevatorPanel: Application Starting...
-181202-23:54:52 [INFO] -- ElevatorPanelServer Port: 54322
-181202-23:54:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: Hello 12242352525
-181202-23:54:52 [INFO] -- 
-181202-23:54:52 [INFO] -- 
-181202-23:54:52 [INFO] -- ============================================================
-181202-23:54:52 [INFO] -- ElevatorPanel: Application Starting...
-181202-23:54:52 [INFO] -- ElevatorPanelServer Port: 54322
-181202-23:54:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: Hello 12242352525
+181203-12:27:49 [INFO] -- 
+181203-12:27:49 [INFO] -- 
+181203-12:27:49 [INFO] -- ============================================================
+181203-12:27:49 [INFO] -- ElevatorPanel: Application Starting...
+181203-12:27:49 [INFO] -- ElevatorPanelServer Port: 54321
+181203-12:27:49 [FINE] -- timer: created!
+181203-12:27:49 [INFO] -- timer simulationSpeed: 200
+181203-12:27:49 [INFO] -- timer: starting...
+181203-12:27:50 [INFO] -- 
+181203-12:27:50 [INFO] -- 
+181203-12:27:50 [INFO] -- ============================================================
+181203-12:27:50 [INFO] -- ElevatorPanel: Application Starting...
+181203-12:27:50 [INFO] -- ElevatorPanelServer Port: 54321
+181203-12:27:50 [FINE] -- timer: created!
+181203-12:27:50 [INFO] -- timer simulationSpeed: 200
+181203-12:27:50 [INFO] -- timer: starting...

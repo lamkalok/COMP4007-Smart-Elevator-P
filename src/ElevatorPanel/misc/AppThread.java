@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 public abstract class AppThread implements Runnable {
     protected String id;
     protected ElevatorPanel elevatorPanel;
-    //protected MBox mbox = null;
+    protected MBox mbox = null;
     protected Logger log = null;
 
     //------------------------------------------------------------
@@ -19,8 +19,8 @@ public abstract class AppThread implements Runnable {
     public AppThread(String id, ElevatorPanel elevatorPanel) {
         this.id = id;
         this.elevatorPanel = elevatorPanel;
-        //log = elevatorPanel.getLogger();
-       // mbox = new MBox(id, log);
+        log = elevatorPanel.getLogger();
+        mbox = new MBox(id, log);
         //elevatorPanel.regThread(this);
         log.fine(id + ": created!");
     } // AppThread
@@ -28,7 +28,9 @@ public abstract class AppThread implements Runnable {
 
     //------------------------------------------------------------
     // getters
-
-    //public MBox getMBox() { return mbox; }
+    public Logger getLogger() {
+        return log;
+    } // getLogger
+    public MBox getMBox() { return mbox; }
     public String getID() { return id; }
 } // AppThread

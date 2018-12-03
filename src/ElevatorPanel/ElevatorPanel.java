@@ -2,6 +2,7 @@ package ElevatorPanel;
 
 import ElevatorPanel.misc.AppThread;
 import ElevatorPanel.misc.LogFormatter;
+import ElevatorPanel.timer.Timer;
 
 import java.io.*;
 import java.net.ServerSocket;
@@ -30,7 +31,7 @@ public class ElevatorPanel {
     private InputStreamReader dis;
     private DataOutputStream dos;
 
-
+    private Timer timer = null;
 
     public static void main(String[] args) {
 
@@ -96,6 +97,11 @@ public class ElevatorPanel {
         log.info(id + "Server Port: " + cfgProps.getProperty("Server.Port"));
         int port = Integer.parseInt(cfgProps.getProperty("Server.Port"));
         String address = cfgProps.getProperty("Server.IP");
+
+
+        timer = new Timer("timer", this);
+        new Thread(timer).start();
+
 
         try {
 
@@ -170,5 +176,48 @@ public class ElevatorPanel {
             return appThreads.get(id);
         }
     } // getThread
+
+    public Logger getLogger() {
+        return log;
+    } // getLogger
+
+    //------------------------------------------------------------
+    // getLogConHd
+    public ConsoleHandler getLogConHd() {
+        return logConHd;
+    }
+    // getLogConHd
+
+
+    //------------------------------------------------------------
+    // getLogFileHd
+    public FileHandler getLogFileHd() {
+        return logFileHd;
+    } // getLogFileHd
+
+
+    //------------------------------------------------------------
+    // getProperty
+    public String getProperty(String property) {
+        String s = cfgProps.getProperty(property);
+
+        if (s == null) {
+            log.severe(id + ": getProperty(" + property + ") failed.  Check the config file (" + cfgFName + ")!");
+        }
+        return s;
+    } // getProperty
+
+    //------------------------------------------------------------
+    // getSimulationTimeStr
+    public String getSimulationTimeStr() {
+        long t = timer.getSimulationTime();
+        int s = (int) t % 60;
+        int m = (int) (t / 60) % 60;
+        int h = (int) (t / 3600) % 60;
+
+        return String.format("%02d:%02d:%02d", h, m, s);
+    } // getSimulationTimeStr
+
+
 
 }
