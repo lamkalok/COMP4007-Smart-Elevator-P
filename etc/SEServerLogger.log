@@ -1,16 +1,1097 @@
-181203-12:27:49 [INFO] -- 
-181203-12:27:49 [INFO] -- 
-181203-12:27:49 [INFO] -- ============================================================
-181203-12:27:49 [INFO] -- ElevatorPanel: Application Starting...
-181203-12:27:49 [INFO] -- ElevatorPanelServer Port: 54321
-181203-12:27:49 [FINE] -- timer: created!
-181203-12:27:49 [INFO] -- timer simulationSpeed: 200
-181203-12:27:49 [INFO] -- timer: starting...
-181203-12:27:50 [INFO] -- 
-181203-12:27:50 [INFO] -- 
-181203-12:27:50 [INFO] -- ============================================================
-181203-12:27:50 [INFO] -- ElevatorPanel: Application Starting...
-181203-12:27:50 [INFO] -- ElevatorPanelServer Port: 54321
-181203-12:27:50 [FINE] -- timer: created!
-181203-12:27:50 [INFO] -- timer simulationSpeed: 200
-181203-12:27:50 [INFO] -- timer: starting...
+181203-16:08:05 [INFO] -- 
+181203-16:08:05 [INFO] -- 
+181203-16:08:05 [INFO] -- ============================================================
+181203-16:08:05 [INFO] -- ElevatorPanel: Application Starting...
+181203-16:08:05 [INFO] -- ElevatorPanelServer Port: 54321
+181203-16:08:05 [FINE] -- ElevatorPanel: registering timer
+181203-16:08:05 [FINE] -- timer: created!
+181203-16:08:05 [INFO] -- timer simulationSpeed: 200
+181203-16:08:05 [INFO] -- timer: starting...
+181203-16:08:05 [FINE] -- ElevatorPanel: registering ThreadElevatorPanelGUI
+181203-16:08:05 [FINE] -- ThreadElevatorPanelGUI: created!
+181203-16:08:06 [INFO] -- ThreadElevatorPanelGUI: starting...
+181203-16:08:06 [FINE] -- ElevatorPanel: registering ThreadClientHandler
+181203-16:08:06 [FINE] -- ThreadClientHandler: created!
+181203-16:08:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:06 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:07 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:08 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:08 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:09 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:09 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:10 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:11 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:11 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:12 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:12 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:13 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:14 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:14 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:15 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:15 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:16 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:17 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:17 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:18 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:18 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:19 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:20 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:20 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:21 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:21 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:22 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:23 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:23 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:24 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:24 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:25 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:26 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:26 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:27 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:27 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:28 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:29 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:29 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:30 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:30 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:31 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:32 [INFO] -- Message received from server is GUI_Reply A 0 S
+181203-16:08:32 [INFO] -- Message received from server is Elev_Dep A 0 U 28 52
+181203-16:08:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:32 [INFO] -- Message received from server is GUI_Reply A 0 U 28 52
+181203-16:08:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:33 [INFO] -- Message received from server is GUI_Reply A 0 U 28 52
+181203-16:08:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:33 [INFO] -- Message received from server is GUI_Reply A 1 U 9 24 28 52
+181203-16:08:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:34 [INFO] -- Message received from server is GUI_Reply A 2 U 9 24 28 52
+181203-16:08:34 [INFO] -- Message received from server is Elev_Dep B 0 U 36 23
+181203-16:08:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:35 [INFO] -- Message received from server is GUI_Reply A 3 U 9 24 28 52
+181203-16:08:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:35 [INFO] -- Message received from server is GUI_Reply A 4 U 9 24 28 52
+181203-16:08:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:36 [INFO] -- Message received from server is GUI_Reply A 5 U 9 24 28 52
+181203-16:08:36 [INFO] -- Message received from server is Elev_Dep C 0 U 39 33
+181203-16:08:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:36 [INFO] -- Message received from server is GUI_Reply A 6 U 9 24 28 52
+181203-16:08:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:37 [INFO] -- Message received from server is GUI_Reply A 7 U 9 24 28 52
+181203-16:08:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:38 [INFO] -- Message received from server is GUI_Reply A 8 U 9 24 28 52
+181203-16:08:38 [INFO] -- Message received from server is Elev_Dep D 0 U 13 2
+181203-16:08:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:38 [INFO] -- Message received from server is GUI_Reply A 8 U 9 24 28 52
+181203-16:08:39 [INFO] -- Message received from server is Elev_Arr A 9 U 24 28 52
+181203-16:08:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req A
+181203-16:08:39 [INFO] -- Message received from server is GUI_Reply A 9 U 24 28 52
+181203-16:08:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:39 [INFO] -- Message received from server is GUI_Reply B 7 U 36 23
+181203-16:08:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:40 [INFO] -- Message received from server is GUI_Reply B 8 U 36 23
+181203-16:08:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:41 [INFO] -- Message received from server is GUI_Reply B 9 U 36 23
+181203-16:08:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:41 [INFO] -- Message received from server is GUI_Reply B 10 U 36 23
+181203-16:08:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:42 [INFO] -- Message received from server is GUI_Reply B 11 U 36 23
+181203-16:08:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:42 [INFO] -- Message received from server is GUI_Reply B 12 U 36 23
+181203-16:08:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:43 [INFO] -- Message received from server is GUI_Reply B 13 U 36 23
+181203-16:08:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:44 [INFO] -- Message received from server is GUI_Reply B 14 U 36 23
+181203-16:08:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:44 [INFO] -- Message received from server is GUI_Reply B 15 U 36 23
+181203-16:08:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:45 [INFO] -- Message received from server is GUI_Reply B 16 U 36 23
+181203-16:08:45 [INFO] -- Message received from server is Elev_Dep E 0 U 22 42
+181203-16:08:45 [INFO] -- Message received from server is Elev_Dep F 0 U 24 6
+181203-16:08:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:46 [INFO] -- Message received from server is GUI_Reply B 17 U 36 23
+181203-16:08:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:46 [INFO] -- Message received from server is GUI_Reply B 18 U 36 23
+181203-16:08:46 [INFO] -- Message received from server is Elev_Dep A 9 U 24 28 52
+181203-16:08:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:47 [INFO] -- Message received from server is GUI_Reply B 19 U 36 23
+181203-16:08:47 [INFO] -- Message received from server is Elev_Arr D 13 D 2
+181203-16:08:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:47 [INFO] -- Message received from server is GUI_Reply B 20 U 36 23
+181203-16:08:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:48 [INFO] -- Message received from server is GUI_Reply B 21 U 36 23
+181203-16:08:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:49 [INFO] -- Message received from server is GUI_Reply B 22 U 36 23
+181203-16:08:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:49 [INFO] -- Message received from server is GUI_Reply B 23 U 36 23
+181203-16:08:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:50 [INFO] -- Message received from server is GUI_Reply B 24 U 36 23
+181203-16:08:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:50 [INFO] -- Message received from server is GUI_Reply B 25 U 36 23
+181203-16:08:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:51 [INFO] -- Message received from server is GUI_Reply B 26 U 36 23
+181203-16:08:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:52 [INFO] -- Message received from server is GUI_Reply B 27 U 36 23
+181203-16:08:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:52 [INFO] -- Message received from server is GUI_Reply B 28 U 36 23
+181203-16:08:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:53 [INFO] -- Message received from server is GUI_Reply B 29 U 36 23
+181203-16:08:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:53 [INFO] -- Message received from server is GUI_Reply B 30 U 36 23
+181203-16:08:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:54 [INFO] -- Message received from server is GUI_Reply B 31 U 36 23
+181203-16:08:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:55 [INFO] -- Message received from server is GUI_Reply B 32 U 36 23
+181203-16:08:55 [INFO] -- Message received from server is Elev_Dep D 13 D 2
+181203-16:08:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:55 [INFO] -- Message received from server is GUI_Reply B 33 U 36 23
+181203-16:08:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:56 [INFO] -- Message received from server is GUI_Reply B 34 U 36 23
+181203-16:08:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:56 [INFO] -- Message received from server is GUI_Reply B 35 U 36 23
+181203-16:08:57 [INFO] -- Message received from server is Elev_Arr A 24 U 28 52
+181203-16:08:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:57 [INFO] -- Message received from server is GUI_Reply B 35 U 36 23
+181203-16:08:57 [INFO] -- Message received from server is Elev_Arr B 36 D 23
+181203-16:08:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:58 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:08:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:58 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:08:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:59 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:08:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:08:59 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:00 [INFO] -- Message received from server is Elev_Arr E 22 U 42
+181203-16:09:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:00 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:01 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:01 [INFO] -- Message received from server is Elev_Arr D 2 S -2147483648
+181203-16:09:01 [INFO] -- Message received from server is Elev_Arr F 24 D 6
+181203-16:09:01 [INFO] -- Message received from server is Elev_Arr C 39 D 33
+181203-16:09:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:01 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:02 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:02 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:03 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:04 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:04 [INFO] -- Message received from server is Elev_Dep A 24 U 28 52
+181203-16:09:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:04 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:05 [INFO] -- Message received from server is Elev_Dep B 36 D 23
+181203-16:09:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:05 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:05 [INFO] -- Message received from server is GUI_Reply B 36 D 23
+181203-16:09:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:06 [INFO] -- Message received from server is GUI_Reply B 35 D 23
+181203-16:09:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:07 [INFO] -- Message received from server is GUI_Reply B 33 D 23
+181203-16:09:07 [INFO] -- Message received from server is Elev_Dep E 22 U 42
+181203-16:09:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:07 [INFO] -- Message received from server is GUI_Reply B 32 D 23
+181203-16:09:08 [INFO] -- Message received from server is Elev_Arr A 28 U 52
+181203-16:09:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:08 [INFO] -- Message received from server is GUI_Reply B 31 D 23
+181203-16:09:08 [INFO] -- Message received from server is Elev_Dep F 24 D 6
+181203-16:09:08 [INFO] -- Message received from server is Elev_Dep C 39 D 33
+181203-16:09:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:08 [INFO] -- Message received from server is GUI_Reply B 30 D 23
+181203-16:09:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:09 [INFO] -- Message received from server is GUI_Reply B 29 D 23
+181203-16:09:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:10 [INFO] -- Message received from server is GUI_Reply B 27 D 23
+181203-16:09:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:10 [INFO] -- Message received from server is GUI_Reply B 26 D 23
+181203-16:09:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:11 [INFO] -- Message received from server is GUI_Reply B 25 D 23
+181203-16:09:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:11 [INFO] -- Message received from server is GUI_Reply B 24 D 23
+181203-16:09:12 [INFO] -- Message received from server is Elev_Arr B 23 S -2147483648
+181203-16:09:12 [INFO] -- Message received from server is Elev_Arr C 33 S -2147483648
+181203-16:09:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:12 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:12 [INFO] -- Message received from server is Svc_Reply Passenger-0008 30 9 D
+181203-16:09:12 [INFO] -- Message received from server is Elev_Dep D 2 U 30 9
+181203-16:09:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:13 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:13 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:14 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:14 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:15 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:15 [INFO] -- Message received from server is Elev_Dep A 28 U 52
+181203-16:09:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:16 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:16 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:17 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:17 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:18 [INFO] -- Message received from server is Elev_Arr F 6 S -2147483648
+181203-16:09:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:18 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:19 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:19 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:20 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:20 [INFO] -- Message received from server is Elev_Arr E 42 S -2147483648
+181203-16:09:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:20 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:21 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:22 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:22 [INFO] -- Message received from server is GUI_Reply B 23 S
+181203-16:09:22 [INFO] -- Message received from server is Svc_Reply Passenger-0009 49 38 B
+181203-16:09:22 [INFO] -- Message received from server is Elev_Dep B 23 U 49 38
+181203-16:09:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:23 [INFO] -- Message received from server is GUI_Reply B 23 U 49 38
+181203-16:09:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:23 [INFO] -- Message received from server is GUI_Reply B 23 U 49 38
+181203-16:09:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:24 [INFO] -- Message received from server is GUI_Reply B 24 U 49 38
+181203-16:09:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:25 [INFO] -- Message received from server is GUI_Reply B 25 U 49 38
+181203-16:09:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:25 [INFO] -- Message received from server is GUI_Reply B 26 U 49 38
+181203-16:09:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:26 [INFO] -- Message received from server is GUI_Reply B 27 U 49 38
+181203-16:09:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:26 [INFO] -- Message received from server is GUI_Reply B 28 U 49 38
+181203-16:09:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:27 [INFO] -- Message received from server is GUI_Reply B 29 U 49 38
+181203-16:09:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:28 [INFO] -- Message received from server is GUI_Reply B 30 U 49 38
+181203-16:09:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:28 [INFO] -- Message received from server is GUI_Reply B 31 U 49 38
+181203-16:09:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:29 [INFO] -- Message received from server is GUI_Reply B 32 U 49 38
+181203-16:09:29 [INFO] -- Message received from server is Elev_Dep C 33 D 22 12
+181203-16:09:29 [INFO] -- Message received from server is Elev_Dep E 42 U 44 30
+181203-16:09:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:29 [INFO] -- Message received from server is GUI_Reply B 33 U 49 38
+181203-16:09:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:30 [INFO] -- Message received from server is GUI_Reply B 34 U 49 38
+181203-16:09:30 [INFO] -- Message received from server is Elev_Arr D 30 D 9
+181203-16:09:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:31 [INFO] -- Message received from server is GUI_Reply B 35 U 49 38
+181203-16:09:31 [INFO] -- Message received from server is Elev_Arr A 52 S -2147483648
+181203-16:09:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:31 [INFO] -- Message received from server is GUI_Reply B 36 U 49 38
+181203-16:09:32 [INFO] -- Message received from server is Elev_Arr E 44 D 30
+181203-16:09:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:32 [INFO] -- Message received from server is GUI_Reply B 37 U 49 38
+181203-16:09:32 [INFO] -- Message received from server is Elev_Dep F 6 U 33 15
+181203-16:09:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:32 [INFO] -- Message received from server is GUI_Reply B 38 U 49 38
+181203-16:09:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:33 [INFO] -- Message received from server is GUI_Reply B 39 U 49 38
+181203-16:09:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:34 [INFO] -- Message received from server is GUI_Reply B 40 U 49 38
+181203-16:09:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:34 [INFO] -- Message received from server is GUI_Reply B 41 U 49 38
+181203-16:09:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:35 [INFO] -- Message received from server is GUI_Reply B 42 U 49 38
+181203-16:09:35 [INFO] -- Message received from server is Elev_Arr C 22 D 12
+181203-16:09:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:36 [INFO] -- Message received from server is GUI_Reply B 43 U 49 38
+181203-16:09:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:36 [INFO] -- Message received from server is GUI_Reply B 44 U 49 38
+181203-16:09:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:37 [INFO] -- Message received from server is GUI_Reply B 45 U 49 38
+181203-16:09:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:37 [INFO] -- Message received from server is GUI_Reply B 46 U 49 38
+181203-16:09:38 [INFO] -- Message received from server is Elev_Dep D 30 D 9
+181203-16:09:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:38 [INFO] -- Message received from server is GUI_Reply B 47 U 49 38
+181203-16:09:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:39 [INFO] -- Message received from server is GUI_Reply B 48 U 49 38
+181203-16:09:39 [INFO] -- Message received from server is Elev_Dep E 44 D 30
+181203-16:09:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:39 [INFO] -- Message received from server is GUI_Reply B 48 U 49 38
+181203-16:09:39 [INFO] -- Message received from server is Elev_Arr B 49 D 38
+181203-16:09:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:40 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:40 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:41 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:42 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:42 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:43 [INFO] -- Message received from server is Elev_Dep C 22 D 12
+181203-16:09:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:43 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:43 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:44 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:45 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:45 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:46 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:46 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:47 [INFO] -- Message received from server is Elev_Arr E 30 S -2147483648
+181203-16:09:47 [INFO] -- Message received from server is Elev_Dep B 49 D 38
+181203-16:09:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:47 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:48 [INFO] -- Message received from server is GUI_Reply B 49 D 38
+181203-16:09:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:48 [INFO] -- Message received from server is GUI_Reply B 47 D 38
+181203-16:09:48 [INFO] -- Message received from server is Elev_Dep A 52 D 45 50
+181203-16:09:48 [INFO] -- Message received from server is Elev_Arr C 12 S -2147483648
+181203-16:09:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:49 [INFO] -- Message received from server is GUI_Reply B 46 D 38
+181203-16:09:49 [INFO] -- Message received from server is Elev_Arr D 9 S -2147483648
+181203-16:09:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:49 [INFO] -- Message received from server is GUI_Reply B 45 D 38
+181203-16:09:50 [INFO] -- Message received from server is Elev_Arr F 33 D 15
+181203-16:09:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:50 [INFO] -- Message received from server is GUI_Reply B 44 D 38
+181203-16:09:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:51 [INFO] -- Message received from server is GUI_Reply B 43 D 38
+181203-16:09:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:51 [INFO] -- Message received from server is GUI_Reply B 41 D 38
+181203-16:09:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:52 [INFO] -- Message received from server is GUI_Reply B 40 D 38
+181203-16:09:52 [INFO] -- Message received from server is Elev_Arr A 45 U 50
+181203-16:09:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:52 [INFO] -- Message received from server is GUI_Reply B 39 D 38
+181203-16:09:53 [INFO] -- Message received from server is Elev_Arr B 38 S -2147483648
+181203-16:09:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:53 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:54 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:54 [INFO] -- Message received from server is Elev_Dep E 30 U 50 33
+181203-16:09:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:54 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:55 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:55 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:56 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:56 [INFO] -- Message received from server is Elev_Dep C 12 U 37 7
+181203-16:09:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:57 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:57 [INFO] -- Message received from server is Elev_Dep F 33 D 15
+181203-16:09:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:57 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:57 [INFO] -- Message received from server is Svc_Reply Passenger-0014 0 20 D
+181203-16:09:57 [INFO] -- Message received from server is Elev_Dep D 9 D 0 20
+181203-16:09:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:58 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:58 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:09:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:09:59 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:00 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:00 [INFO] -- Message received from server is Elev_Dep A 45 U 50
+181203-16:10:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:00 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:01 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:01 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:02 [INFO] -- Message received from server is GUI_Reply B 38 S
+181203-16:10:02 [INFO] -- Message received from server is Svc_Reply Passenger-0015 52 37 B
+181203-16:10:02 [INFO] -- Message received from server is Elev_Dep B 38 U 52 37
+181203-16:10:02 [INFO] -- Message received from server is Elev_Arr D 0 U 20
+181203-16:10:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:03 [INFO] -- Message received from server is GUI_Reply B 38 U 52 37
+181203-16:10:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:03 [INFO] -- Message received from server is GUI_Reply B 38 U 52 37
+181203-16:10:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:04 [INFO] -- Message received from server is GUI_Reply B 39 U 52 37
+181203-16:10:04 [INFO] -- Message received from server is Elev_Arr A 50 S -2147483648
+181203-16:10:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:04 [INFO] -- Message received from server is GUI_Reply B 40 U 52 37
+181203-16:10:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:05 [INFO] -- Message received from server is GUI_Reply B 41 U 52 37
+181203-16:10:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:06 [INFO] -- Message received from server is GUI_Reply B 42 U 52 37
+181203-16:10:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:06 [INFO] -- Message received from server is GUI_Reply B 43 U 52 37
+181203-16:10:07 [INFO] -- Message received from server is Elev_Arr F 15 S -2147483648
+181203-16:10:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:07 [INFO] -- Message received from server is GUI_Reply B 44 U 52 37
+181203-16:10:07 [INFO] -- Message received from server is Elev_Arr E 50 D 33
+181203-16:10:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:07 [INFO] -- Message received from server is GUI_Reply B 45 U 52 37
+181203-16:10:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:08 [INFO] -- Message received from server is GUI_Reply B 46 U 52 37
+181203-16:10:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:09 [INFO] -- Message received from server is GUI_Reply B 47 U 52 37
+181203-16:10:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:09 [INFO] -- Message received from server is GUI_Reply B 48 U 52 37
+181203-16:10:10 [INFO] -- Message received from server is Elev_Dep D 0 U 20
+181203-16:10:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:10 [INFO] -- Message received from server is GUI_Reply B 49 U 52 37
+181203-16:10:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:10 [INFO] -- Message received from server is GUI_Reply B 50 U 52 37
+181203-16:10:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:11 [INFO] -- Message received from server is GUI_Reply B 51 U 52 37
+181203-16:10:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:12 [INFO] -- Message received from server is GUI_Reply B 51 U 52 37
+181203-16:10:12 [INFO] -- Message received from server is Elev_Arr B 52 D 37
+181203-16:10:12 [INFO] -- Message received from server is Elev_Dep A 50 D 35 8
+181203-16:10:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:12 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:12 [INFO] -- Message received from server is Svc_Reply Passenger-0018 41 15 A
+181203-16:10:12 [INFO] -- Message received from server is Elev_Arr C 37 D 7
+181203-16:10:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:13 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:13 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:14 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:15 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:15 [INFO] -- Message received from server is Elev_Dep E 50 D 33
+181203-16:10:15 [INFO] -- Message received from server is Elev_Dep F 15 U 49 34
+181203-16:10:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:15 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:16 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:16 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:17 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:17 [INFO] -- Message received from server is Elev_Arr A 41 D 35 15 8
+181203-16:10:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:18 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:18 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:19 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:19 [INFO] -- Message received from server is Elev_Dep B 52 D 37
+181203-16:10:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:19 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:20 [INFO] -- Message received from server is Elev_Dep C 37 D 7
+181203-16:10:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:20 [INFO] -- Message received from server is GUI_Reply B 52 D 37
+181203-16:10:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:21 [INFO] -- Message received from server is GUI_Reply B 51 D 37
+181203-16:10:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:21 [INFO] -- Message received from server is GUI_Reply B 50 D 37
+181203-16:10:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:22 [INFO] -- Message received from server is GUI_Reply B 49 D 37
+181203-16:10:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:23 [INFO] -- Message received from server is GUI_Reply B 47 D 37
+181203-16:10:23 [INFO] -- Message received from server is Elev_Arr D 20 U 26 28 51
+181203-16:10:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:23 [INFO] -- Message received from server is GUI_Reply B 46 D 37
+181203-16:10:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:24 [INFO] -- Message received from server is GUI_Reply B 45 D 37
+181203-16:10:24 [INFO] -- Message received from server is Elev_Arr E 33 S -2147483648
+181203-16:10:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:24 [INFO] -- Message received from server is GUI_Reply B 44 D 37
+181203-16:10:25 [INFO] -- Message received from server is Elev_Dep A 41 D 35 15 8
+181203-16:10:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:25 [INFO] -- Message received from server is GUI_Reply B 43 D 37
+181203-16:10:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:26 [INFO] -- Message received from server is GUI_Reply B 41 D 37
+181203-16:10:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:26 [INFO] -- Message received from server is GUI_Reply B 40 D 37
+181203-16:10:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:27 [INFO] -- Message received from server is GUI_Reply B 39 D 37
+181203-16:10:27 [INFO] -- Message received from server is Svc_Reply Passenger-0024 19 16 A
+181203-16:10:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:27 [INFO] -- Message received from server is GUI_Reply B 38 D 37
+181203-16:10:27 [INFO] -- Message received from server is Elev_Arr B 37 S -2147483648
+181203-16:10:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:28 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:28 [INFO] -- Message received from server is Elev_Arr A 35 D 19 16 15 8
+181203-16:10:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:29 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:29 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:30 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:30 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:31 [INFO] -- Message received from server is Elev_Dep D 20 U 26 28 51
+181203-16:10:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:31 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:32 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:32 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:32 [INFO] -- Message received from server is Svc_Reply Passenger-0023 4 20 E
+181203-16:10:32 [INFO] -- Message received from server is Elev_Dep E 33 D 4 20
+181203-16:10:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:33 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:33 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:34 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:35 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:35 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:35 [INFO] -- Message received from server is Elev_Arr D 26 U 28 51
+181203-16:10:36 [INFO] -- Message received from server is Elev_Arr C 7 S -2147483648
+181203-16:10:36 [INFO] -- Message received from server is Elev_Dep A 35 D 19 16 15 8
+181203-16:10:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:36 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:36 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:37 [INFO] -- Message received from server is Elev_Arr F 49 D 34
+181203-16:10:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:37 [INFO] -- Message received from server is GUI_Reply B 37 S
+181203-16:10:37 [INFO] -- Message received from server is Svc_Reply Passenger-0025 13 32 B
+181203-16:10:37 [INFO] -- Message received from server is Elev_Dep B 37 D 13 32
+181203-16:10:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:38 [INFO] -- Message received from server is GUI_Reply B 37 D 13 32
+181203-16:10:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:38 [INFO] -- Message received from server is GUI_Reply B 37 D 13 32
+181203-16:10:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:39 [INFO] -- Message received from server is GUI_Reply B 36 D 13 32
+181203-16:10:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:39 [INFO] -- Message received from server is GUI_Reply B 34 D 13 32
+181203-16:10:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:40 [INFO] -- Message received from server is GUI_Reply B 33 D 13 32
+181203-16:10:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:41 [INFO] -- Message received from server is GUI_Reply B 32 D 13 32
+181203-16:10:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:41 [INFO] -- Message received from server is GUI_Reply B 31 D 13 32
+181203-16:10:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:42 [INFO] -- Message received from server is GUI_Reply B 30 D 13 32
+181203-16:10:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:42 [INFO] -- Message received from server is GUI_Reply B 28 D 13 32
+181203-16:10:43 [INFO] -- Message received from server is Elev_Dep D 26 U 28 51
+181203-16:10:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:43 [INFO] -- Message received from server is GUI_Reply B 27 D 13 32
+181203-16:10:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:44 [INFO] -- Message received from server is GUI_Reply B 26 D 13 32
+181203-16:10:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:44 [INFO] -- Message received from server is GUI_Reply B 25 D 13 32
+181203-16:10:44 [INFO] -- Message received from server is Elev_Arr A 19 D 16 15 8
+181203-16:10:44 [INFO] -- Message received from server is Elev_Dep F 49 D 34
+181203-16:10:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:45 [INFO] -- Message received from server is GUI_Reply B 24 D 13 32
+181203-16:10:45 [INFO] -- Message received from server is Elev_Arr D 28 U 51
+181203-16:10:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:45 [INFO] -- Message received from server is GUI_Reply B 22 D 13 32
+181203-16:10:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:46 [INFO] -- Message received from server is GUI_Reply B 21 D 13 32
+181203-16:10:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:47 [INFO] -- Message received from server is GUI_Reply B 20 D 13 32
+181203-16:10:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:47 [INFO] -- Message received from server is GUI_Reply B 19 D 13 32
+181203-16:10:47 [INFO] -- Message received from server is Svc_Reply Passenger-0026 42 41 C
+181203-16:10:47 [INFO] -- Message received from server is Elev_Dep C 7 U 42 41
+181203-16:10:47 [INFO] -- Message received from server is Elev_Arr E 4 U 20
+181203-16:10:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:48 [INFO] -- Message received from server is GUI_Reply B 18 D 13 32
+181203-16:10:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:48 [INFO] -- Message received from server is GUI_Reply B 16 D 13 32
+181203-16:10:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:49 [INFO] -- Message received from server is GUI_Reply B 15 D 13 32
+181203-16:10:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:50 [INFO] -- Message received from server is GUI_Reply B 14 D 13 32
+181203-16:10:50 [INFO] -- Message received from server is Elev_Arr B 13 U 32
+181203-16:10:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:50 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:51 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:51 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:52 [INFO] -- Message received from server is Elev_Dep A 19 D 16 15 8
+181203-16:10:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:52 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:52 [INFO] -- Message received from server is Elev_Arr F 34 S -2147483648
+181203-16:10:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:53 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:53 [INFO] -- Message received from server is Elev_Dep D 28 U 51
+181203-16:10:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:53 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:54 [INFO] -- Message received from server is Elev_Arr A 16 D 15 8
+181203-16:10:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:54 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:54 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:55 [INFO] -- Message received from server is Elev_Dep E 4 U 20
+181203-16:10:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:55 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:56 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:56 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:57 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:57 [INFO] -- Message received from server is Svc_Reply Passenger-0028 21 43 E
+181203-16:10:57 [INFO] -- Message received from server is Elev_Dep B 13 U 32
+181203-16:10:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:57 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:58 [INFO] -- Message received from server is GUI_Reply B 13 U 32
+181203-16:10:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:59 [INFO] -- Message received from server is GUI_Reply B 14 U 32
+181203-16:10:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:10:59 [INFO] -- Message received from server is GUI_Reply B 15 U 32
+181203-16:11:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:00 [INFO] -- Message received from server is GUI_Reply B 16 U 32
+181203-16:11:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:00 [INFO] -- Message received from server is GUI_Reply B 17 U 32
+181203-16:11:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:01 [INFO] -- Message received from server is GUI_Reply B 18 U 32
+181203-16:11:01 [INFO] -- Message received from server is Elev_Dep A 16 D 15 8
+181203-16:11:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:02 [INFO] -- Message received from server is GUI_Reply B 19 U 32
+181203-16:11:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:02 [INFO] -- Message received from server is GUI_Reply B 20 U 32
+181203-16:11:02 [INFO] -- Message received from server is Elev_Arr A 15 D 8
+181203-16:11:02 [INFO] -- Message received from server is Svc_Reply Passenger-0027 47 8 F
+181203-16:11:02 [INFO] -- Message received from server is Elev_Dep F 34 U 47 8
+181203-16:11:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:03 [INFO] -- Message received from server is GUI_Reply B 21 U 32
+181203-16:11:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:03 [INFO] -- Message received from server is GUI_Reply B 22 U 32
+181203-16:11:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:04 [INFO] -- Message received from server is GUI_Reply B 23 U 32
+181203-16:11:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:05 [INFO] -- Message received from server is GUI_Reply B 24 U 32
+181203-16:11:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:05 [INFO] -- Message received from server is GUI_Reply B 25 U 32
+181203-16:11:06 [INFO] -- Message received from server is Elev_Arr E 20 U 21 43
+181203-16:11:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:06 [INFO] -- Message received from server is GUI_Reply B 26 U 32
+181203-16:11:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:06 [INFO] -- Message received from server is GUI_Reply B 27 U 32
+181203-16:11:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:07 [INFO] -- Message received from server is GUI_Reply B 28 U 32
+181203-16:11:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:08 [INFO] -- Message received from server is GUI_Reply B 29 U 32
+181203-16:11:08 [INFO] -- Message received from server is Elev_Arr D 51 S -2147483648
+181203-16:11:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:08 [INFO] -- Message received from server is GUI_Reply B 30 U 32
+181203-16:11:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:09 [INFO] -- Message received from server is GUI_Reply B 31 U 32
+181203-16:11:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:09 [INFO] -- Message received from server is GUI_Reply B 31 U 32
+181203-16:11:10 [INFO] -- Message received from server is Elev_Arr C 42 D 41
+181203-16:11:10 [INFO] -- Message received from server is Elev_Dep A 15 D 8
+181203-16:11:10 [INFO] -- Message received from server is Elev_Arr B 32 S -2147483648
+181203-16:11:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:10 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:11 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:11 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:11 [INFO] -- Message received from server is Elev_Arr F 47 D 8
+181203-16:11:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:12 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:12 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:13 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:13 [INFO] -- Message received from server is Elev_Dep E 20 U 21 43
+181203-16:11:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:14 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:14 [INFO] -- Message received from server is Elev_Arr A 8 S -2147483648
+181203-16:11:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:14 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:14 [INFO] -- Message received from server is Elev_Arr E 21 U 43
+181203-16:11:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:15 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:15 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:16 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:17 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:17 [INFO] -- Message received from server is Elev_Dep C 42 D 41
+181203-16:11:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:17 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:17 [INFO] -- Message received from server is Svc_Reply Passenger-0029 44 34 D
+181203-16:11:17 [INFO] -- Message received from server is Elev_Dep D 51 D 44 34
+181203-16:11:17 [INFO] -- Message received from server is Svc_Reply Passenger-0031 31 4 D
+181203-16:11:17 [INFO] -- Message received from server is Svc_Reply Passenger-0034 34 27 D
+181203-16:11:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:18 [INFO] -- Message received from server is GUI_Reply B 32 S
+181203-16:11:18 [INFO] -- Message received from server is Elev_Arr C 41 S -2147483648
+181203-16:11:18 [INFO] -- Message received from server is Elev_Dep B 32 D 15 29
+181203-16:11:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:18 [INFO] -- Message received from server is GUI_Reply B 32 D 15 29
+181203-16:11:19 [INFO] -- Message received from server is Elev_Dep F 47 D 8
+181203-16:11:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:19 [INFO] -- Message received from server is GUI_Reply B 32 D 15 29
+181203-16:11:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:20 [INFO] -- Message received from server is GUI_Reply B 31 D 15 29
+181203-16:11:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:20 [INFO] -- Message received from server is GUI_Reply B 29 D 15 29
+181203-16:11:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:21 [INFO] -- Message received from server is GUI_Reply B 28 D 15 29
+181203-16:11:21 [INFO] -- Message received from server is Elev_Arr D 44 D 34 31 27 22 4 2
+181203-16:11:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:22 [INFO] -- Message received from server is GUI_Reply B 27 D 15 29
+181203-16:11:22 [INFO] -- Message received from server is Elev_Dep E 21 U 43
+181203-16:11:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:22 [INFO] -- Message received from server is GUI_Reply B 26 D 15 29
+181203-16:11:22 [INFO] -- Message received from server is Svc_Reply Passenger-0030 4 35 A
+181203-16:11:22 [INFO] -- Message received from server is Elev_Dep A 8 D 4 35
+181203-16:11:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:23 [INFO] -- Message received from server is GUI_Reply B 25 D 15 29
+181203-16:11:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:23 [INFO] -- Message received from server is GUI_Reply B 23 D 15 29
+181203-16:11:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:24 [INFO] -- Message received from server is GUI_Reply B 22 D 15 29
+181203-16:11:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:25 [INFO] -- Message received from server is GUI_Reply B 21 D 15 29
+181203-16:11:25 [INFO] -- Message received from server is Elev_Arr A 4 U 35
+181203-16:11:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:25 [INFO] -- Message received from server is GUI_Reply B 20 D 15 29
+181203-16:11:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:26 [INFO] -- Message received from server is GUI_Reply B 19 D 15 29
+181203-16:11:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:26 [INFO] -- Message received from server is GUI_Reply B 17 D 15 29
+181203-16:11:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:27 [INFO] -- Message received from server is GUI_Reply B 16 D 15 29
+181203-16:11:27 [INFO] -- Message received from server is Elev_Arr B 15 U 29
+181203-16:11:27 [INFO] -- Message received from server is Svc_Reply Passenger-0032 28 25 C
+181203-16:11:27 [INFO] -- Message received from server is Elev_Dep C 41 D 28 25
+181203-16:11:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:28 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:28 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:29 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:29 [INFO] -- Message received from server is Elev_Dep D 44 D 34 31 27 22 4 2
+181203-16:11:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:29 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:30 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:31 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:31 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:32 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:32 [INFO] -- Message received from server is Elev_Dep A 4 U 35
+181203-16:11:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:32 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:33 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:34 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:34 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:34 [INFO] -- Message received from server is Elev_Arr C 28 D 25 16 3
+181203-16:11:34 [INFO] -- Message received from server is Elev_Arr D 34 D 31 27 22 4 2
+181203-16:11:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:35 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:35 [INFO] -- Message received from server is Elev_Dep B 15 U 29
+181203-16:11:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:35 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:11:36 [INFO] -- Message received from server is GUI_Reply B 15 U 29
+181203-16:11:36 [INFO] -- Message received from server is Elev_Arr E 43 S -2147483648
+181203-16:11:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:37 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:37 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:38 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:38 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:39 [INFO] -- Message received from server is Elev_Arr F 8 S -2147483648
+181203-16:11:39 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:39 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:40 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:40 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:40 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:41 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:41 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:41 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:42 [INFO] -- Message received from server is Elev_Dep C 28 D 25 16 3
+181203-16:11:42 [INFO] -- Message received from server is Elev_Dep D 34 D 31 27 22 4 2
+181203-16:11:42 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:42 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:43 [INFO] -- Message received from server is GUI_Reply D 34 D 31 27 22 4 2
+181203-16:11:43 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:43 [INFO] -- Message received from server is GUI_Reply D 33 D 31 27 22 4 2
+181203-16:11:44 [INFO] -- Message received from server is Elev_Arr A 21 U 22 35
+181203-16:11:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:44 [INFO] -- Message received from server is GUI_Reply D 32 D 31 27 22 4 2
+181203-16:11:44 [INFO] -- Message received from server is Elev_Arr C 25 D 16 3
+181203-16:11:44 [INFO] -- Message received from server is Elev_Arr D 31 D 27 22 4 2
+181203-16:11:44 [INFO] -- Message received from server is Elev_Dep E 43 D 18 10
+181203-16:11:44 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:44 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:44 [INFO] -- Message received from server is Elev_Arr B 29 S -2147483648
+181203-16:11:45 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:45 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:46 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:46 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:46 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:47 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:47 [INFO] -- Message received from server is Elev_Dep F 8 U 41 36
+181203-16:11:47 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:47 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:48 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:48 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:49 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:49 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:49 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:50 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:50 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:50 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:51 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:51 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:51 [INFO] -- Message received from server is Elev_Dep A 21 U 22 35
+181203-16:11:51 [INFO] -- Message received from server is Elev_Dep C 25 D 16 3
+181203-16:11:51 [INFO] -- Message received from server is Elev_Dep D 31 D 27 22 4 2
+181203-16:11:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:52 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:52 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:52 [INFO] -- Message received from server is GUI_Reply D 31 D 27 22 4 2
+181203-16:11:52 [INFO] -- Message received from server is Svc_Reply Passenger-0033 6 46 B
+181203-16:11:52 [INFO] -- Message received from server is Elev_Dep B 29 D 6 46
+181203-16:11:52 [INFO] -- Message received from server is Elev_Arr A 22 U 35
+181203-16:11:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:53 [INFO] -- Message received from server is GUI_Reply D 30 D 27 22 4 2
+181203-16:11:53 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:53 [INFO] -- Message received from server is GUI_Reply D 28 D 27 22 4 2
+181203-16:11:54 [INFO] -- Message received from server is Elev_Arr D 27 D 22 4 2
+181203-16:11:54 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:54 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:55 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:55 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:55 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:56 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:56 [INFO] -- Message received from server is Elev_Arr C 16 D 3
+181203-16:11:56 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:56 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:57 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:57 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:57 [INFO] -- Message received from server is Elev_Arr E 18 D 10
+181203-16:11:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:58 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:58 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:58 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:59 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:11:59 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:11:59 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:12:00 [INFO] -- Message received from server is Elev_Dep A 22 U 35
+181203-16:12:00 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:00 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:12:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:01 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:12:01 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:01 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:12:01 [INFO] -- Message received from server is Elev_Dep D 27 D 22 4 2
+181203-16:12:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:02 [INFO] -- Message received from server is GUI_Reply D 27 D 22 4 2
+181203-16:12:02 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:02 [INFO] -- Message received from server is GUI_Reply D 26 D 22 4 2
+181203-16:12:03 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:03 [INFO] -- Message received from server is GUI_Reply D 25 D 22 4 2
+181203-16:12:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:04 [INFO] -- Message received from server is GUI_Reply D 24 D 22 4 2
+181203-16:12:04 [INFO] -- Message received from server is Elev_Dep C 16 D 3
+181203-16:12:04 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:04 [INFO] -- Message received from server is GUI_Reply D 23 D 22 4 2
+181203-16:12:04 [INFO] -- Message received from server is Elev_Arr B 6 U 46
+181203-16:12:04 [INFO] -- Message received from server is Elev_Arr D 22 D 4 2
+181203-16:12:05 [INFO] -- Message received from server is Elev_Dep E 18 D 10
+181203-16:12:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:05 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:05 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:05 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:06 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:06 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:07 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:07 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:07 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:08 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:08 [INFO] -- Message received from server is Elev_Arr F 41 D 36
+181203-16:12:08 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:08 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:09 [INFO] -- Message received from server is Elev_Arr A 35 S -2147483648
+181203-16:12:09 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:09 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:09 [INFO] -- Message received from server is Elev_Arr E 10 S -2147483648
+181203-16:12:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:10 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:10 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:10 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:11 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:11 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:11 [INFO] -- Message received from server is Elev_Arr C 3 S -2147483648
+181203-16:12:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:12 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:12 [INFO] -- Message received from server is Elev_Dep B 6 U 46
+181203-16:12:12 [INFO] -- Message received from server is Elev_Dep D 22 D 4 2
+181203-16:12:12 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:12 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:12 [INFO] -- Message received from server is Svc_Reply Passenger-0036 8 48 B
+181203-16:12:12 [INFO] -- Message received from server is Svc_Reply Passenger-0043 24 54 B
+181203-16:12:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:13 [INFO] -- Message received from server is GUI_Reply D 22 D 4 2
+181203-16:12:13 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:13 [INFO] -- Message received from server is GUI_Reply D 21 D 4 2
+181203-16:12:14 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:14 [INFO] -- Message received from server is GUI_Reply D 19 D 4 2
+181203-16:12:14 [INFO] -- Message received from server is Elev_Arr B 8 U 24 40 45 46 48 54
+181203-16:12:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req D
+181203-16:12:15 [INFO] -- Message received from server is GUI_Reply D 18 D 4 2
+181203-16:12:15 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:15 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:16 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:16 [INFO] -- Message received from server is Elev_Dep F 41 D 36
+181203-16:12:16 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:16 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:17 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:17 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:17 [INFO] -- Message received from server is Svc_Reply Passenger-0040 0 19 A
+181203-16:12:17 [INFO] -- Message received from server is Elev_Dep A 35 D 0 19
+181203-16:12:17 [INFO] -- Message received from server is Svc_Reply Passenger-0044 28 51 E
+181203-16:12:17 [INFO] -- Message received from server is Elev_Dep E 10 U 28 51
+181203-16:12:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:18 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:18 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:18 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:19 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:19 [INFO] -- Message received from server is Elev_Arr F 36 S -2147483648
+181203-16:12:19 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:19 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:20 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:20 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:21 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:21 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:21 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:21 [INFO] -- Message received from server is Elev_Arr D 4 D 2
+181203-16:12:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:22 [INFO] -- Message received from server is GUI_Reply B 8 U 24 40 45 46 48 54
+181203-16:12:22 [INFO] -- Message received from server is Elev_Dep B 8 U 24 40 45 46 48 54
+181203-16:12:22 [INFO] -- Message received from server is Svc_Reply Passenger-0046 9 21 B
+181203-16:12:22 [INFO] -- Message received from server is Svc_Reply Passenger-0047 46 23 C
+181203-16:12:22 [INFO] -- Message received from server is Elev_Dep C 3 U 46 23
+181203-16:12:22 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:22 [INFO] -- Message received from server is GUI_Reply B 8 U 9 21 24 40 45 46 48 54
+181203-16:12:23 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:23 [INFO] -- Message received from server is GUI_Reply B 8 U 9 21 24 40 45 46 48 54
+181203-16:12:23 [INFO] -- Message received from server is Elev_Arr B 9 U 21 24 40 45 46 48 54
+181203-16:12:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:24 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:24 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:24 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:25 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:25 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:25 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:26 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:26 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:27 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:27 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:27 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:28 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:28 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:28 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:29 [INFO] -- Message received from server is Elev_Dep D 4 D 2
+181203-16:12:29 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:29 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:29 [INFO] -- Message received from server is Elev_Arr E 28 U 51
+181203-16:12:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:30 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:30 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:30 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:30 [INFO] -- Message received from server is Elev_Arr D 2 S -2147483648
+181203-16:12:31 [INFO] -- Message received from server is Elev_Dep B 9 U 21 24 40 45 46 48 54
+181203-16:12:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:31 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:31 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:31 [INFO] -- Message received from server is GUI_Reply B 9 U 21 24 40 45 46 48 54
+181203-16:12:32 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:32 [INFO] -- Message received from server is GUI_Reply B 10 U 21 24 40 45 46 48 54
+181203-16:12:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:33 [INFO] -- Message received from server is GUI_Reply B 11 U 21 24 40 45 46 48 54
+181203-16:12:33 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:33 [INFO] -- Message received from server is GUI_Reply B 12 U 21 24 40 45 46 48 54
+181203-16:12:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:34 [INFO] -- Message received from server is GUI_Reply B 13 U 21 24 40 45 46 48 54
+181203-16:12:34 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:35 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:36 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:37 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B
+181203-16:12:38 [SEVERE] -- ElevatorPanel : message send to ElevatorServer: GUI_Req B

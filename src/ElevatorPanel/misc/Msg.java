@@ -71,6 +71,7 @@ public class Msg {
         Svc_Req,
         Svc_Reply,
         Elev_Arr,
-        Elev_Dep
+        Elev_Dep,
+        GUI_Reply,
     } // Type
 } // Msg

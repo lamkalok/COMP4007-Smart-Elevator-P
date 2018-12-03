@@ -1,7 +1,9 @@
 package ElevatorPanel;
 
+import ElevatorPanel.GUI.ElevatorPanelGUI;
 import ElevatorPanel.misc.AppThread;
 import ElevatorPanel.misc.LogFormatter;
+import ElevatorPanel.server.ClientHandler;
 import ElevatorPanel.timer.Timer;
 
 import java.io.*;
@@ -24,7 +26,10 @@ public class ElevatorPanel {
     private Logger log = null;
     private ConsoleHandler logConHd = null;
     private FileHandler logFileHd = null;
-    //private Timer timer = null;
+
+
+    private int NElevators;
+
 
     private ServerSocket ss;
     private Socket s;
@@ -32,6 +37,10 @@ public class ElevatorPanel {
     private DataOutputStream dos;
 
     private Timer timer = null;
+
+    private ElevatorPanelGUI elevatorPanelGUI;
+
+    private ClientHandler threadClientHandler;
 
     public static void main(String[] args) {
 
@@ -84,7 +93,6 @@ public class ElevatorPanel {
         logFileHd.setLevel(Level.parse(cfgProps.getProperty("SESvr.FileLoggerLevel")));
         appThreads = new Hashtable<String, AppThread>();
 
-        startApp();
     }
 
     private void startApp() {
@@ -97,11 +105,14 @@ public class ElevatorPanel {
         log.info(id + "Server Port: " + cfgProps.getProperty("Server.Port"));
         int port = Integer.parseInt(cfgProps.getProperty("Server.Port"));
         String address = cfgProps.getProperty("Server.IP");
-
+        NElevators = Integer.parseInt(cfgProps.getProperty("Bldg.NElevators"));
 
         timer = new Timer("timer", this);
         new Thread(timer).start();
 
+        elevatorPanelGUI = new ElevatorPanelGUI("ThreadElevatorPanelGUI", this);
+        new Thread(elevatorPanelGUI).start();
+        System.out.println("Create");
 
         try {
 
@@ -110,8 +121,12 @@ public class ElevatorPanel {
             dis = new InputStreamReader(s.getInputStream());
             dos = new DataOutputStream(s.getOutputStream());
 
-            sendMsgToElevatorServer("Hello 12242352525");
 
+
+            // create ClientHandler object
+            threadClientHandler = new ClientHandler("ThreadClientHandler", this, dis, dos);
+            // Invoking the start() method
+            new Thread(threadClientHandler).start();
 
 
         } catch (IOException e) {
@@ -218,6 +233,8 @@ public class ElevatorPanel {
         return String.format("%02d:%02d:%02d", h, m, s);
     } // getSimulationTimeStr
 
-
+    public int getNElevators(){
+        return NElevators;
+    }
 
 }

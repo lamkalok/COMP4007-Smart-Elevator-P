@@ -21,7 +21,7 @@ public abstract class AppThread implements Runnable {
         this.elevatorPanel = elevatorPanel;
         log = elevatorPanel.getLogger();
         mbox = new MBox(id, log);
-        //elevatorPanel.regThread(this);
+        elevatorPanel.regThread(this);
         log.fine(id + ": created!");
     } // AppThread
 
